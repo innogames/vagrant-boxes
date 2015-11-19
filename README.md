@@ -15,6 +15,13 @@ The build boxes are available through
 * [Atlas (former Vagrantcloud)](https://atlas.hashicorp.com/ffuenf)
 * Amazon S3 (eu-central-1)
 
+InnoGames modifications
+=======================
+
+* Build of Debian boxes can be visually observed.
+* Puppet is installed instead of chef.
+* apt-transport-https is installed. 
+
 Tools
 =====
 
