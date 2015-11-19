@@ -19,3 +19,6 @@ apt-get -y install curl
 
 # install rsync
 apt-get -y install rsync
+
+# install https transport for apt
+apt-get -y install apt-transport-https
